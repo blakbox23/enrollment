@@ -1,13 +1,14 @@
 # Student Enrollment
 This is a simple CRUD application on Ruby on Rails that allows users to Add, Display, Update and Delete a student.
 
+<img width="960" alt="crud" src="https://user-images.githubusercontent.com/36844547/173045953-50e6d768-adec-4daf-9406-4d1fe2b2d2a7.PNG">
 
 ## Built With
 - Ruby on Rails
 
 
 ## Live Demo
-[Live link](https://afternoon-reaches-67806.herokuapp.com/students)
+Here is a [Live link](https://afternoon-reaches-67806.herokuapp.com/students) of the app hosted on Heroku.
 
 
 ## Getting Started
